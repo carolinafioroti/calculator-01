@@ -1,4 +1,4 @@
-# calculator-01
+# calculator
 Projeto desenvolvido com base no curso Lógica de Programação com Javascript com o professor Daniel Tapias Morales
 
 Acesse a página exeplo do projeto através desse link :)
